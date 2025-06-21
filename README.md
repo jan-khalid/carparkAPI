@@ -4,6 +4,8 @@ Hi, to use this program, please click '**run all**' and skip all the way to '**V
 
 Please ensure to input date and location when prompted, in order for the program to work.
 
+To see real-time vacancy, scroll all the way to the left of the final dataframe.
+
 ---
 **Table of Contents**
 > I) Calling carpark location data from data.gov.hk API
