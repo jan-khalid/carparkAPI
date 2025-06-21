@@ -1,1 +1,19 @@
-# carparkAPI
+# Real-time Parking Space Vacancy via API
+
+Hi, to use this program, please click '**run all**' and skip all the way to '**VI) Results**'
+
+Please ensure to input date and location when prompted, in order for the program to work.
+
+---
+##**Table of Contents**
+> I) Calling carpark location data from data.gov.hk API
+
+> II) Loading the json extracts into pandas dataframe
+
+> III) Get Real-time Vacancy for each carpark
+
+> IV) Join both datasets
+
+> V) User location string input fuzzy match optimization
+
+> VI) Results
